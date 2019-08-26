@@ -40,7 +40,7 @@ se puede agregar la opción -d para no bloquear la terminal
 
 4. Iniciar aplicación
 
-ingresar al navegador y acceder al localhos puerto 5000 escribiendo:
+ingresar al navegador y acceder al localhost puerto 5000 escribiendo:
 
   localhost:5000
 
