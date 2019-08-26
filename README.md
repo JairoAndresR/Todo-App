@@ -1,6 +1,10 @@
 # Todo-App
 Practica usando flask y MariaDB
 
+# Autores
+Cristian Manuel Bernal - 20151020523
+Jairo Andres Romero - 20151020027
+
 # Requisitos de instalación
 git instalado (Opcional)
 docker instalado
